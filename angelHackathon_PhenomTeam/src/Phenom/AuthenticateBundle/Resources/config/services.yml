@@ -1,0 +1,4 @@
+services:
+#    phenom_authenticate.example:
+#        class: Phenom\AuthenticateBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
