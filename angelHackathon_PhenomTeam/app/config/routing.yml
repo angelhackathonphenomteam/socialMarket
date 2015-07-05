@@ -1,5 +1,5 @@
-phenom_authenticate:
-    resource: "@PhenomAuthenticateBundle/Resources/config/routing.yml"
+phenom_standard:
+    resource: "@PhenomStandardBundle/Resources/config/routing.yml"
     prefix:   /
 
 app:

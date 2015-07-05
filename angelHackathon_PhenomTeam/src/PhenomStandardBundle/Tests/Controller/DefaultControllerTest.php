@@ -1,6 +1,6 @@
 <?php
 
-namespace Phenom\AuthenticateBundle\Tests\Controller;
+namespace PhenomStandardBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

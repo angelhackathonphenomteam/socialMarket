@@ -1,3 +1,0 @@
-phenom_authenticate_bundle:
-    resource: "@PhenomAuthenticateBundle/Controller/"
-    type:     annotation

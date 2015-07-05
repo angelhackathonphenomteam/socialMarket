@@ -1,0 +1,3 @@
+phenom_standard:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
